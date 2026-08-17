@@ -3,8 +3,8 @@
 </p title = "抄袭？？">全文转载自deepTools文档中的Glossary of NGS terms</p>[前往文档](https://deeptools.readthedocs.io/en/latest/index.html)
 
 ### 目录
-+ [Abbreviations](#Abbreviations)
-+ [NGS and generic terminology](#NGS)
++ [Abbreviations](#abbreviations)
++ [NGS and generic terminology](#ngs)
   - [bin](#bin)
   - [Input](#input)
   - [read](#read)
@@ -20,7 +20,7 @@
 + [SAM header section](#samhs)
 + [SAM alignment section](#samas)
 
-### Abbreviations <span id="Abbreviations"></span>
+### Abbreviations <span id="abbreviations"></span>
 
 Reference genomes are usually referred to by their abbreviations, such as:
 
@@ -43,7 +43,7 @@ For a more comprehensive list of available reference genomes and their abbreviat
 
 For a review of popular *-seq applications, see [Zentner and Henikoff].
 
-### NGS and generic terminology<span id="NGS"></span>
+### NGS and generic terminology<span id="ngs"></span>
 
 The following are terms that may be new to some:
  - #### bin<span id="bin"></span>
